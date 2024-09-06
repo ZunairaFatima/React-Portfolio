@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "Jorepull, Al-Faisal Town Lahore cantt ",
   phoneNo: "03224533748",
   email: "zunairafatima.dev@gmail.com",
 };

@@ -15,7 +15,7 @@ animate:{
     duration:duration,
     ease:'linear',
     repeat: Infinity,
-    repeatTpye:'reverse',
+    repeatType:'reverse',
 
   }
 
